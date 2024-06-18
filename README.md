@@ -1,0 +1,2 @@
+# Java IO 
+Java Input/Output (I/O) is a fundamental concept that enables interaction with data sources like files, network connections, and system input/output streams. Java provides a comprehensive set of I/O classes and interfaces to perform reading and writing operations on different data types.
